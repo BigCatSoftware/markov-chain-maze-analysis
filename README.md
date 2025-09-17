@@ -65,7 +65,6 @@ python MazeRunner.py 15 50
 
 ```python
 numpy>=1.21.0
-pyamaze>=1.0
 matplotlib>=3.5.0
 networkx>=2.6
 ```
