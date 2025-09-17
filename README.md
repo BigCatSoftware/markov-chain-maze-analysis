@@ -87,7 +87,7 @@ source .venv/bin/activate  # Linux/Mac
 
 3. Install dependencies:
 ```bash
-pip install numpy pyamaze matplotlib networkx
+pip install numpy matplotlib networkx
 ```
 
 4. Run the analysis:
